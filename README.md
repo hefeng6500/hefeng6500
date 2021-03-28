@@ -2,7 +2,7 @@
 
 ### Hi there, I'm hefeng6500 👋
 
-My Personal Website is https://hefeng6500.github.io/blog, Welcome To Visit!
+My Personal Website is https://hefeng6500.github.io, Welcome To Visit!
 
 **Languages and Tools:**  
 
