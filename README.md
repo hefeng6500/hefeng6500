@@ -2,7 +2,7 @@
 
 ### Hi there, I'm hefeng6500 👋
 
-My Personal Website is https://github.com/hefeng6500/blog, Welcome To Visit!
+My Personal Website is https://www.hefeng6500.cn, Welcome To Visit!
 
 WeChat: hefeng6500
 
